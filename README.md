@@ -1,2 +1,2 @@
 # dinner-constructor
-Precode for sprint 3 dinner constructor
+Добавление блюд в меню и генерация комбинаций.
